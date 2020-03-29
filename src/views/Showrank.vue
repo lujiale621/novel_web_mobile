@@ -12,8 +12,8 @@
     <rankcard :obj="res[3].ranklist" nvtype="武侠仙侠"></rankcard>
     <rankcard :obj="res[4].ranklist" nvtype="耽美同人"></rankcard>
     <rankcard :obj="res[5].ranklist" nvtype="科幻灵异"></rankcard>
-    <rankcard :obj="res[5].ranklist" nvtype="轻小说"></rankcard>
-    <rankcard :obj="res[5].ranklist" nvtype="历史军事"></rankcard>
+    <rankcard :obj="res[6].ranklist" nvtype="轻小说"></rankcard>
+    <rankcard :obj="res[7].ranklist" nvtype="历史军事"></rankcard>
     </van-skeleton>
   </div>
 </template>
