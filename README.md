@@ -5,7 +5,7 @@ http://47.116.1.19:8082/
 > A Vue.js project
 
 ## Build Setup
-
+请自行修改config/index下的hoat为本地ip
 ``` bash
 # install dependencies
 npm install
